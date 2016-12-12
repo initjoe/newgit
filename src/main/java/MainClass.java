@@ -18,6 +18,7 @@ public class MainClass {
 		Employee r = m.dao.getEmployeeFor(100);
 		LOGGER.info(r.getFirstName());
 		LOGGER.info("pankaj");
+		LOGGER.info("raj");
 
 	}
 }
