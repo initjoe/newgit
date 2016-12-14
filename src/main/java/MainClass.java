@@ -20,7 +20,7 @@ public class MainClass {
 		LOGGER.info("pankaj");
 		LOGGER.info("raj");
 		LOGGER.info("raja");
-		LOGGER.info("pranav");
-		LOGGER.info("hardik");
+		
+		LOGGER.info("hardik1");
 	}
 }
