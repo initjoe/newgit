@@ -13,6 +13,7 @@ public class MainClass {
 		MainClass m = new MainClass();
 		LOGGER.error("error");
 		LOGGER.info("Info");
+		LOGGER.info("Info1");
 
 		LOGGER.debug("Debug");
 		Employee r = m.dao.getEmployeeFor(100);
@@ -24,6 +25,7 @@ public class MainClass {
 		LOGGER.info("hardik2");
 		LOGGER.info("sab");
 		LOGGER.info("sab2");
+		LOGGER.info("sab3");
 
 	}
 }
