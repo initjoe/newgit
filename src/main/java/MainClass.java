@@ -16,6 +16,7 @@ public class MainClass {
 		LOGGER.info("Info1");
 
 		LOGGER.debug("Debug");
+		LOGGER.debug("Debug");
 		Employee r = m.dao.getEmployeeFor(100);
 		LOGGER.info(r.getFirstName());
 		
