@@ -24,7 +24,6 @@ public class MainClass {
 		LOGGER.info("hardik2");
 		LOGGER.info("sab");
 		LOGGER.info("sab2");
-		LOGGER.info("sab3");
 
 	}
 }
