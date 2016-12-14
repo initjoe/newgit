@@ -21,6 +21,7 @@ public class MainClass {
 		LOGGER.info("raj");
 		LOGGER.info("raja");
 		LOGGER.info("hardik1");
+		LOGGER.info("hardik2");
 
 	}
 }
